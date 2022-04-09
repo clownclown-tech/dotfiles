@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = philippk8@gmail.com
+	name = philipp kern
